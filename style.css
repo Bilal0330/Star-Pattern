@@ -1,0 +1,20 @@
+div#pattren {
+    width: 0%;
+    
+}
+    div#pattren1 {
+        width: 0%;
+    
+}
+.blk {
+    width: 24%;
+}
+
+.flex {
+    display: flex !important;
+    justify-content: flex-start;
+}
+body{
+    color: rgb(125, 92, 9);
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/516/877/small_2x/Black_Background_Vector_RON_03.jpg);
+}
